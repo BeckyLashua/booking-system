@@ -1,6 +1,6 @@
-# Rebecca Lashua – Developer Portfolio 💻
+# RML Booking System 💻
 
-This is my personal developer portfolio built with **Next.js**, **Tailwind CSS**, and **TypeScript**. It showcases my projects, resume, and contact information, with a focus on clean UI, performance, and accessibility.
+This is my personal booking system app built with **Next.js**, **Tailwind CSS**, and **TypeScript**. 
 
 ---
 
@@ -20,7 +20,7 @@ This is my personal developer portfolio built with **Next.js**, **Tailwind CSS**
 This project includes regression tests for key UI components.  
 Tests are automatically run on every push to `main`.
 
-![Tests](https://github.com/BeckyLashua/my-website/actions/workflows/test.yml/badge.svg)
+![Tests](https://github.com/BeckyLashua/booking-system/actions/workflows/test.yml/badge.svg)
 
 #### To run tests locally:
 ```
@@ -38,7 +38,6 @@ npm run test
 
 🎨 Built with Tailwind CSS for rapid styling
 
-📁 Resume download and contact links
 
 ---
 
@@ -46,8 +45,8 @@ npm run test
 
 #### To run locally:
 ```
-  git clone https://github.com/BeckyLashua/my-website.git
-  cd my-website
+  git clone https://github.com/BeckyLashua/becky-lashua.git
+  cd booking-system
   npm install
   npm run dev
 ```
